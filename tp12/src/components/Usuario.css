@@ -1,0 +1,13 @@
+.usuario-card {
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+  padding: 15px;
+  background-color: #f5faff;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.usuario-card:hover {
+  transform: scale(1.05);
+  background-color: #e6f2ff;
+}

@@ -1,0 +1,10 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: linear-gradient(to bottom, #f8f9ff, #e3e9f0);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
